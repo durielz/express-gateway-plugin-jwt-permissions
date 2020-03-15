@@ -8,6 +8,12 @@
   },
   "author": "Andrea Taffi <andrea.taffi@gmail.com>",
   "license": "Apache-2.0",
+  "keywords": [
+    "express-gateway",
+    "jwt",
+    "permissions",
+    "scopes"
+  ],
   "dependencies": {
     "express-jwt-permissions": "^1.3.3"
   }
