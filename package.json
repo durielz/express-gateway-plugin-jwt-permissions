@@ -2,6 +2,10 @@
   "name": "express-gateway-plugin-jwt-permissions",
   "version": "1.0.0",
   "description": "A plugin for Express Gateway for JWT permissions",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/durielz/express-gateway-plugin-jwt-permissions.git"
+  },
   "main": "manifest.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
