@@ -1,0 +1,14 @@
+{
+  "name": "express-gateway-plugin-jwt-permissions",
+  "version": "1.0.0",
+  "description": "A plugin for Express Gateway for JWT permissions",
+  "main": "manifest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrea Taffi <andrea.taffi@gmail.com>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "express-jwt-permissions": "^1.3.3"
+  }
+}
