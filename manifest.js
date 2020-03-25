@@ -1,7 +1,7 @@
 const guardFactory = require('express-jwt-permissions');
 
 const plugin = {
-  version: '1.0.0',
+  version: '1.0.2',
   policies: ['jwt-permissions'],
   init: function (pluginContext) {
     pluginContext.registerPolicy({

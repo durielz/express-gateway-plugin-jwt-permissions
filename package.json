@@ -1,6 +1,6 @@
 {
   "name": "express-gateway-plugin-jwt-permissions",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A plugin for Express Gateway for JWT permissions",
   "repository": {
     "type": "git",
