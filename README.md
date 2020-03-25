@@ -3,7 +3,7 @@ A plugin for Express Gateway that checks JWT tokens for permissions using the [e
 ## Installation
 Simply type from your shell environment:
 
-`eg plugin install express-gateway-jwt-permissions`
+`eg plugin install express-gateway-plugin-jwt-permissions`
 
 ## Quick start
 
